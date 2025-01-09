@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/bun": "^1.1.16",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.3.2",
+    "viem": "^2.22.5"
+  }
+}
